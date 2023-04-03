@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component
+## Preview site [QR code component](https://preeminent-cactus-7c93f7.netlify.app/)
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
